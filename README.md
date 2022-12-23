@@ -12,8 +12,8 @@ In this project
 
 -> Then split the data into test and train part
 
--> then train the k-nearest neighbors(KNN) model
+-> then train theRandom Forest Classifier model
 
 -> finally used the test data to check the accuracy of the model
 
-the accuracy of the k-nearest neighbors(KNN) model.
+the accuracy of the Random Forest Classifier model by accuracy of 93%.
